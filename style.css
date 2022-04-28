@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    color: snow;
+    text-align: center;
+}
+
+.menor{
+    color: tomato;
+}
+
+.mayor{
+    color: limegreen;
+}
+
+button{
+    margin: 0 .5rem;
+    background-color: blue;
+    padding: 3px 3px;
+    border-radius: 5px;
+    border: 20px;
+    color: aliceblue;
+    
+}
